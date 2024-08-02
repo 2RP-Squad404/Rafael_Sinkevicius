@@ -70,11 +70,26 @@ Aprender o que é controle de versão, como lidar com o Git e seus comandos e co
    - Desfazendo coisas
 
 4. **Módulo 4:** Repositórios Remotos
-   - Introdução
-   - Controle de versão
-   - História do Git
-   - O que é Github
+   - Criando um repositório no Github
+   - Criando e Adicionando uma chave SSH
+   - Ligando repositório local a um remoto
+   - Enviando mudanças para um repositório remoto
+   - Clonando repositórios remotos
+   - Fazendo fork de um projeto
 
+5. **Módulo 5:** Ramificação (Branch)
+    - O que é um branch e por que usar?
+    - Criando um branch
+    - Movendo e deletano branches
+    - Entendendo o Merge
+    - Entendendo o Rebase
+    - Merge e Rebase na prática
+
+6. **Módulo 6:** Extras
+    - Criando o .gitignore
+    - Versionamento com tags
+    - Apagando tags e branches remotos
+ 
 #### Introdução GitFlow:
 É um modelo de branching para o gerenciamento de branches de forma organizada em projetos de larga escala.
 
@@ -106,6 +121,23 @@ Aprender o que é controle de versão, como lidar com o Git e seus comandos e co
 - **Estabilidade:** Garante o estado estável contínuo do código.
 
 #### Cursos e Artigos:
-- **Gitflow conceito:**
-- **Gitflow cheatsheet:**
-- **Gitflow extention:**
+### Gitflow conceito:
+**Nome do Artigo:** Git Flow: entenda o que é, como e quando utilizar
+**Instituição:** Alura
+
+**Resumo:**
+O artigo explica sobre o Git Flow, abordando o que é, como organizar branches para features, realeses e hotfixes. Também é detalhado os benefícios e desvantagens, destacando o gerenciamento de projetos complexos com vários colaboradores, assim como também reconhece a complexidade para ambientes de entrega contínua.
+
+### Gitflow cheatsheet:
+**Nome do Artigo:** git-flow cheatsheet
+**Autor:** Daniel Kummer
+
+**Resumo:**
+O artigo fornece uma rápida referência da utilização do Git Flow. O guia traz comandos básicos e seus efeitos, como a inicialização do Git Flow, criação e finalização de branches de feature, realease e hotfix. Também explica como rastrear e publicar branches, destacando o merge no Git Flow e sua compatibilidade geral.
+
+### Gitflow extention:
+**Nome do Repositório:** nvie/gitflow
+**Plataforma:** Github
+
+**Resumo:**
+O repositório fornece extenções Git com base no modelo Git Flow de Vincent Driessen, incluindo comandos para inicialização, criação e finalização de branches, além de integraçaõ com shells Bash e ZSH, com o repositório/projeto em desenvolvimento contínuo.
