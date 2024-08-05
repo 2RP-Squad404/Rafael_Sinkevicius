@@ -2,9 +2,13 @@
 
 #### Relatórios:
 
-[01-08-2024](relatórios/01-08-2024.md)
+##### Semana 1:
 
-[02-08-2024](relatórios/02-08-2024.md)
+[01-08-2024](relatórios/semana1/01-08-2024.md)
+
+[02-08-2024](relatórios/semana1/02-08-2024.md)
+
+##### Semana 2:
 
 #### Resumos:
 
