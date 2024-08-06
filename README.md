@@ -10,7 +10,9 @@
 
 ##### Semana 2:
 
-[05-08-2024](relátorios/semana2/05-08-2024.md)
+[05-08-2024](relatórios/semana2/05-08-2024.md)
+
+[06-08-2024](relatórios/semana2/06-08-2024.md)
 
 #### Resumos:
 
@@ -21,3 +23,7 @@
 [Big Data](resumos/big-data.md)
 
 [Modelagem de Dados](resumos/modelagem-de-dados.md)
+
+[Analítico](resumos/analitico.md)
+
+[Transacional](resumos/transacional.md)
