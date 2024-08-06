@@ -19,3 +19,5 @@
 [Git](resumos/git.md)
 
 [Big Data](resumos/big-data.md)
+
+[Modelagem de Dados](resumos/modelagem-de-dados.md)
