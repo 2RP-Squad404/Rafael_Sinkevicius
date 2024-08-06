@@ -10,6 +10,8 @@
 
 ##### Semana 2:
 
+[05-08-2024](relátorios/semana2/05-08-2024.md)
+
 #### Resumos:
 
 [Introdução a Engenharia de Dados](resumos/introducao-a-engenharia-de-dados.md)
