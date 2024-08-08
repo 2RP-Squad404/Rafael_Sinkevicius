@@ -16,6 +16,8 @@
 
 [07-08-2024](relatórios/semana2/07-08-2024.md)
 
+[08-08-2024](relatórios/semana2/08-08-2024.md)
+
 #### Resumos:
 
 [Introdução a Engenharia de Dados](resumos/introducao-a-engenharia-de-dados.md)
@@ -31,3 +33,5 @@
 [Transacional](resumos/transacional.md)
 
 [BigQuery](resumos/bigquery.md)
+
+[Linguagens e Frameworks](resumos/linguagens-e-frameworks.md)
