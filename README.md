@@ -18,6 +18,8 @@
 
 [08-08-2024](relatórios/semana2/08-08-2024.md)
 
+[09-08-2024](relatórios/semana2/09-08-2024.md)
+
 #### Resumos:
 
 [Introdução a Engenharia de Dados](resumos/introducao-a-engenharia-de-dados.md)
