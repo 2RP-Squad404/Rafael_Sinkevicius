@@ -1,0 +1,11 @@
+phrase = 'Giraffe Academy'
+print('Giraffe\nAcademy')
+print(phrase + ' is cool')
+print(phrase.lower() + ' is cool')
+print(phrase.upper() + ' is cool')
+print(phrase.isupper())
+print(phrase.upper().isupper())
+print(len(phrase))
+print(phrase[0])
+print(phrase.index("G"))
+print(phrase.replace('Giraffe', 'Elephant'))
