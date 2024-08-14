@@ -20,6 +20,14 @@
 
 [09-08-2024](relatórios/semana2/09-08-2024.md)
 
+##### Semana 3:
+
+[12-08-2024](relatórios/semana3/12-08-2024.md)
+
+[13-08-2024](relatórios/semana3/13-08-2024.md)
+
+[14-08-2024](relatórios/semana3/14-08-2024.md)
+
 #### Resumos:
 
 [Introdução a Engenharia de Dados](resumos/introducao-a-engenharia-de-dados.md)
@@ -37,3 +45,7 @@
 [BigQuery](resumos/bigquery.md)
 
 [Linguagens e Frameworks](resumos/linguagens-e-frameworks.md)
+
+[Mensageria](resumos/mensageria.md)
+
+[Virtualização](resumos/virtualizacao.md)

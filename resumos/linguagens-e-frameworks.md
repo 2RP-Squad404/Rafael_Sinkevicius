@@ -1,4 +1,4 @@
-# Relatório Semanal: Semana 2
+# Relatório Semanal: Semana 3
 
 ## Nome:
 Rafael Sinkevicius
@@ -7,7 +7,7 @@ Rafael Sinkevicius
 Data Science
 
 ## Período:
-05.08.2024-09.08.2024
+12.08.2024-14.08.2024
 
 ---
 
