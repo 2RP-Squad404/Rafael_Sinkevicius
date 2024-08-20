@@ -28,6 +28,12 @@
 
 [14-08-2024](relatórios/semana3/14-08-2024.md)
 
+#### Semana 4:
+
+[19-08-2024](relatórios/semana4/19-08-2024.md)
+
+[20-08-2024](relatórios/semana4/20-08-2024.md)
+
 #### Resumos:
 
 [Introdução a Engenharia de Dados](resumos/introducao-a-engenharia-de-dados.md)
@@ -49,3 +55,11 @@
 [Mensageria](resumos/mensageria.md)
 
 [Virtualização](resumos/virtualizacao.md)
+
+[Computação em Nuvem](resumos/computacao-em-nuvem.md)
+
+[CI/CD](resumos/ci-cd.md)
+
+[Linux/Shell](resumos/linux-shell.md)
+
+[Análise de Dados](resumos/analise-de-dados.md)
