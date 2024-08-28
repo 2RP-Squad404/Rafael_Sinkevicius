@@ -2,7 +2,7 @@ CREATE TABLE tabela_consolidada AS
 SELECT
     compras.client_id,
 
-    SUM(compras.price * compras.amount * compras.discount_applied) AS total_price,
+    ROUND(SUM(compras.price * compras.amount * (1 - compras.discount_applied)), 2) AS total_price,
 
     MAX(compras.purchase_location) AS most_purchase_location,
 
@@ -26,5 +26,3 @@ LEFT JOIN
 
 GROUP BY 
     compras.client_id
-
-SELECT * FROM tabela_consolidada LIMIT 10
